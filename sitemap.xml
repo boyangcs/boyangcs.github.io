@@ -3,7 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://boyangcs.github.io/blog/creating-a-new-theme/</loc>
+    <loc>https://boyangcs.github.io/vlog/2018/10_eastern_sierra_trip/</loc>
+    <lastmod>2018-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://boyangcs.github.io/blog/2017/10_cross_country/</loc>
     <lastmod>2017-10-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -19,14 +24,8 @@
   </url>
   
   <url>
-    <loc>https://boyangcs.github.io/categories/hugo/</loc>
-    <lastmod>2017-10-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://boyangcs.github.io/</loc>
-    <lastmod>2017-10-15T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -36,8 +35,20 @@
   </url>
   
   <url>
-    <loc>https://boyangcs.github.io/tags/tutorial/</loc>
+    <loc>https://boyangcs.github.io/categories/travel/</loc>
     <lastmod>2017-10-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://boyangcs.github.io/vlog/</loc>
+    <lastmod>2018-10-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://boyangcs.github.io/categories/vlog/</loc>
+    <lastmod>2018-10-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
